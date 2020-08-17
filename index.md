@@ -12,7 +12,7 @@ I’m Laozhang, the creator of ZPG, GKD350h, and ZPG Pro handhelds
 Earlier this year, I posted a short video to my QQ group chat server. In the video I rubbed a handheld case with my feet. This video was unpleasant to many people who watched it. I sincerely apologize for what I did. 
 
 ### 事件回顾：
-今年上半年[最好确认一下具体的事件]我在群里发了一小段视频，视频中我用尼龙ZPG掌机的外壳搓脚。这个视频造成了不好的影响，让喜欢ZPG掌机的爱好者感觉不适，我对此诚恳的道歉。
+今年上半年我在群里发了一小段视频，视频中我用尼龙ZPG掌机的外壳搓脚。这个视频造成了不好的影响，让喜欢ZPG掌机的爱好者感觉不适，我对此诚恳的道歉。
 
 --- 
 
