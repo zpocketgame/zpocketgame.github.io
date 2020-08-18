@@ -5,8 +5,7 @@ author:
   email: "switchoverflow@gmail.com"
   url: "zpocketgame.com"
 
-# baseurl: /
-url: "http://zpocketgame.com/"
+baseurl: /
 
 source: .
 destination: ./_site

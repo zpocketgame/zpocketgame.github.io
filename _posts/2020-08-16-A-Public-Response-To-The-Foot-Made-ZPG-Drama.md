@@ -1,4 +1,7 @@
-## A public response to the foot-made ZPG drama | 对于ZPG外壳搓脚事件的回复
+---
+title: A public response to the foot-made ZPG drama
+published: true
+---
 
 ### About me: 
 I’m Laozhang, the creator of ZPG, GKD350h, and ZPG Pro handhelds 
